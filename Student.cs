@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp3
+namespace ConsoleApp
 {
     public class Student
     {
@@ -13,7 +13,6 @@ namespace ConsoleApp3
         public double Midtermgrade { get; set; }
 
         public double Finalgrade { get; set; }
-
-
+        
     }
 }
