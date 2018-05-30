@@ -9,7 +9,7 @@ using System.Linq;
 /// </summary>
 /// 
 
-namespace ConsoleApp3
+namespace ConsoleApp
 {
     class Program
     {
